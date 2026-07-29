@@ -1,5 +1,6 @@
 # Zann
 
+Student
 **Information Systems & Network Engineering** — Faculty of Engineering, Chiang Mai University.
 
 
