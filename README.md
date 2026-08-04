@@ -14,6 +14,7 @@ Student,
 | **[netdes](https://github.com/Zann208/netdes)** | 261434 Computer Network Design & Management | [live ↗](https://zann208.github.io/netdes/) |
 | **[wnet](https://github.com/Zann208/wnet)** | 269430 Wireless & Broadband Networks | [live ↗](https://zann208.github.io/wnet/) |
 | **[algo](https://github.com/Zann208/algo)** | 269202 Algorithms for iSNE | [live ↗](https://zann208.github.io/algo/) |
+| **[privacy](https://github.com/Zann208/privacy)** | 269497 The Cult of Privacy Technologies | [live ↗](https://zann208.github.io/privacy/) |
 
 
 ---
