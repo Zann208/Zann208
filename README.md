@@ -15,6 +15,7 @@ Student,
 | **[wnet](https://github.com/Zann208/wnet)** | 269430 Wireless & Broadband Networks | [live ↗](https://zann208.github.io/wnet/) |
 | **[algo](https://github.com/Zann208/algo)** | 269202 Algorithms for iSNE | [live ↗](https://zann208.github.io/algo/) |
 | **[privacy](https://github.com/Zann208/privacy)** | 269497 The Cult of Privacy Technologies | [live ↗](https://zann208.github.io/privacy/) |
+| **[os](https://github.com/Zann208/os)** | 261305 Operating Systems | [live ↗](https://zann208.github.io/os/) |
 
 
 ---
