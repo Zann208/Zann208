@@ -8,7 +8,6 @@ Student,
 
 ### Study consoles · [zann208.github.io/study](https://zann208.github.io/study)
 
-
 | | Course | |
 |---|---|---|
 | **[netdes](https://github.com/Zann208/netdes)** | 261434 Computer Network Design & Management | [live ↗](https://zann208.github.io/netdes/) |
@@ -22,15 +21,17 @@ Student,
 
 ### Projects
 
-
 | | | |
 |---|---|---|
+| **[pawsnap-backend](https://github.com/Zann208/pawsnap-backend)** | Cloud Functions · Firestore rules · service layer | PawSnap — Firebase social platform, team of three |
 | **[pavovival](https://github.com/Zann208/pavovival)** | 2D survival shooter — Java · libGDX | 261200 Object-Oriented Programming, with GroupSix |
 
 
 ---
 
 ### Currently
+
+Working towards **CCNA**.
 
 
 **[Portfolio](https://zann208.github.io)** · **[thuhtoozan_1@cmu.ac.th](mailto:thuhtoozan_1@cmu.ac.th)** · Chiang Mai, Thailand
