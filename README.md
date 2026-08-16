@@ -23,7 +23,7 @@ Student,
 
 | | | |
 |---|---|---|
-| **[Culprit!](https://github.com/Wyco68/CulpritWeb)** | Research Profile & Appointment Portal · Software Engineering | **Documentation Lead** — requirements, SRS, traceability, sprint documentation, meeting records & testing documentation · [live ↗](https://culprit.wyco-dev.com/) |
+| **[Culprit!](projects/culprit.md)** | Research Profile & Appointment Portal · Software Engineering | **Documentation Lead** — requirements, SRS, traceability, sprint documentation, meeting records & testing documentation · [repo ↗](https://github.com/Wyco68/CulpritWeb) · [live ↗](https://culprit.wyco-dev.com/) |
 | **[pawsnap-backend](https://github.com/Zann208/pawsnap-backend)** | Cloud Functions · Firestore rules · service layer | PawSnap — Firebase social platform, team of three |
 | **[pavovival](https://github.com/Zann208/pavovival)** | 2D survival shooter — Java · libGDX | 261200 Object-Oriented Programming, with GroupSix |
 
