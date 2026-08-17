@@ -1,38 +1,27 @@
 # Zann
 
-Student,
-**Information Systems & Network Engineering** — Faculty of Engineering, Chiang Mai University.
+**Information Systems & Network Engineering student** at Chiang Mai University.
 
-
----
-
-### Study consoles · [zann208.github.io/study](https://zann208.github.io/study)
-
-| | Course | |
-|---|---|---|
-| **[netdes](https://github.com/Zann208/netdes)** | 261434 Computer Network Design & Management | [live ↗](https://zann208.github.io/netdes/) |
-| **[wnet](https://github.com/Zann208/wnet)** | 269430 Wireless & Broadband Networks | [live ↗](https://zann208.github.io/wnet/) |
-| **[algo](https://github.com/Zann208/algo)** | 269202 Algorithms for iSNE | [live ↗](https://zann208.github.io/algo/) |
-| **[privacy](https://github.com/Zann208/privacy)** | 269497 The Cult of Privacy Technologies | [live ↗](https://zann208.github.io/privacy/) |
-| **[os](https://github.com/Zann208/os)** | 261305 Operating Systems | [live ↗](https://zann208.github.io/os/) |
-
+I build hands-on projects across **networking, security, systems, and backend software**, with a focus on understanding how systems work, how they fail, and how to make them more reliable.
 
 ---
 
 ### Projects
 
-| | | |
+| Project | Focus | Highlights |
 |---|---|---|
-| **[Culprit!](projects/culprit.md)** | Research Profile & Appointment Portal · Software Engineering | **Documentation Lead** — requirements, SRS, traceability, sprint documentation, meeting records & testing documentation · [repo ↗](https://github.com/Wyco68/CulpritWeb) · [live ↗](https://culprit.wyco-dev.com/) |
-| **[pawsnap-backend](https://github.com/Zann208/pawsnap-backend)** | Cloud Functions · Firestore rules · service layer | PawSnap — Firebase social platform, team of three |
-| **[pavovival](https://github.com/Zann208/pavovival)** | 2D survival shooter — Java · libGDX | 261200 Object-Oriented Programming, with GroupSix |
-
+| **[Culprit!](projects/culprit.md)** | Software Engineering · Documentation | **Documentation Lead** — SRS, requirements traceability, sprint records, meeting documentation and testing documentation · [repo ↗](https://github.com/Wyco68/CulpritWeb) · [live ↗](https://culprit.wyco-dev.com/) |
+| **[PawSnap Backend](https://github.com/Zann208/pawsnap-backend)** | Firebase · Cloud Functions · Firestore | Backend and data-layer work for a pet social platform built by a team of three |
+| **[Study Console](https://zann208.github.io/study/)** | Networking · Algorithms · Privacy · Operating Systems | Interactive, offline-first study tools for technical revision, practice and problem solving · [repo ↗](https://github.com/Zann208/study) |
+| **[Pavovival](https://github.com/Zann208/pavovival)** | Java · libGDX · OOP | 2D survival shooter developed as an Object-Oriented Programming team project |
 
 ---
 
 ### Currently
 
-Working towards **CCNA**.
+- Working towards **CCNA**
+- Building practical projects in networking, security and software
 
+---
 
-**[Portfolio](https://zann208.github.io)** · **[thuhtoozan_1@cmu.ac.th](mailto:thuhtoozan_1@cmu.ac.th)** · Chiang Mai, Thailand
+**[Portfolio](https://zann208.github.io)** · **[LinkedIn](https://www.linkedin.com/in/thu-htoo-zan-8866ab377/)** · **[Email](mailto:thuhtoozan_1@cmu.ac.th)** · Chiang Mai, Thailand
