@@ -8,10 +8,9 @@ I learn best by building and checking things: network labs, offline technical to
 
 | Project | Focus | What it shows |
 |---|---|---|
-| **[NETDES](https://zann208.github.io/projects/netdes/)** | Network design · switching · STP | Course console for VLANs, 802.1Q trunks, EtherChannel, inter-VLAN routing and spanning tree. Includes an educational IEEE 802.1D port-role solver. [console ↗](https://zann208.github.io/netdes/) · [source ↗](https://github.com/Zann208/netdes) |
-| **[WNET](https://zann208.github.io/wnet/)** | Wireless networking | RF planning, coverage, link budgets, capacity, channel reuse, Wi-Fi security and segmentation. [source ↗](https://github.com/Zann208/wnet) |
+| **[Study Console](https://zann208.github.io/study/)** | Engineering study tools · networking · systems | My central browser-based learning platform for university coursework and technical preparation. It links focused consoles for network design, wireless networks, algorithms, privacy, operating systems and data-center hackathon preparation. [source ↗](https://github.com/Zann208/study) |
+| **[NETDES Case Study](https://zann208.github.io/projects/netdes/)** | Network design · switching · STP | A deeper technical case study covering VLANs, 802.1Q trunks, EtherChannel, inter-VLAN routing and an educational IEEE 802.1D port-role solver. [console ↗](https://zann208.github.io/netdes/) · [source ↗](https://github.com/Zann208/netdes) |
 | **[Culprit!](projects/culprit.md)** | Software engineering · documentation | Documentation Lead for a team project: SRS, requirements traceability, sprint records, meeting notes and test documentation. [repo ↗](https://github.com/Wyco68/CulpritWeb) · [live ↗](https://culprit.wyco-dev.com/) |
-| **[Study Console](https://zann208.github.io/study/)** | Technical study tools | Offline-first consoles used for networking and other engineering coursework. [source ↗](https://github.com/Zann208/study) |
 
 ### Currently
 
@@ -19,4 +18,4 @@ I learn best by building and checking things: network labs, offline technical to
 - Building stronger network design and troubleshooting projects
 - **IEEE Student Member**
 
-**[Portfolio](https://zann208.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/thu-htoo-zan-8866ab377/)** · **[Email](mailto:thuhtoozan_1@cmu.ac.th)** · Chiang Mai, Thailand
+**[Portfolio](https://zann208.github.io/)** · **[Study Console](https://zann208.github.io/study/)** · **[LinkedIn](https://www.linkedin.com/in/thu-htoo-zan-8866ab377/)** · **[Email](mailto:thuhtoozan_1@cmu.ac.th)** · Chiang Mai, Thailand
